@@ -1,1 +1,8 @@
+torch
+torchvision
+numpy
+rasterio
+Pillow
+tqdm
+matplotlib
 
